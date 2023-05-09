@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/bmf/Projects/pythonProject/django_project/django_project",
+        "./Experiments"
+    ]
+}
